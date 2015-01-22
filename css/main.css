@@ -1,0 +1,30 @@
+.email{
+    font-size: 10pt;
+    font-style: italic;
+}
+
+.technical{
+    font-size: 16pt;
+}
+
+.operating{
+    font-size: 16pt;
+}
+
+.databasse{
+    font-size: 16pt;
+}
+
+code{
+    font-size:13pt;
+    pading-top:2px;
+}
+
+div #tech{
+    background: #222;
+    padding-bottom: 10px;
+    padding-left: 4px;
+}
+ #tech #techpara, #operpara, #datapara{
+    color: #f9f2f4;
+}
